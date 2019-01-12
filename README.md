@@ -17,7 +17,7 @@ An introduction to cybernetics — the study of control systems in machines and 
 
 ![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/3.jpeg)
 
-![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/4.jpeg)
-
 ![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/5.jpeg)
+
+![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/4.jpeg)
 
