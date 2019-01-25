@@ -22,6 +22,6 @@ An introduction to cybernetics as a framework for understanding the ways we shap
 
 ![](https://github.com/melaniehoff/cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.114.jpeg)
 
-![](https://github.com/melaniehoff/cyberneticsofsex/images/large_0590d5436f4739bcc31127463cf71cb9.png)
+![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/large_0590d5436f4739bcc31127463cf71cb9.png?raw=true)
 
 ![](https://github.com/melaniehoff/cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.114.jpeg)
