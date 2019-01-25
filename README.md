@@ -12,16 +12,14 @@ An introduction to cybernetics as a framework for understanding the ways we shap
 - https://www.are.na/melanie-hoff/cybernetics-of-sex
 
 
-![](https://github.com/melaniehoff/cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.002.jpeg)
+![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.002.jpeg?raw=true)
 
-![](https://github.com/melaniehoff/cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.010.jpeg)
+![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.010.jpeg)
 
-![](https://github.com/melaniehoff/cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.038.jpeg)
+![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.038.jpeg?raw=true)
 
-![](https://github.com/melaniehoff/cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.077.jpeg)
-
-![](https://github.com/melaniehoff/cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.114.jpeg)
+![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.114.jpeg?raw=true)
 
 ![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/large_0590d5436f4739bcc31127463cf71cb9.png?raw=true)
 
-![](https://github.com/melaniehoff/cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.114.jpeg)
+![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.077.jpeg?raw=true)
