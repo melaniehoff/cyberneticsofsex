@@ -12,13 +12,18 @@ An introduction to cybernetics as the study of the ways we shape and are shaped 
 - https://www.are.na/melanie-hoff/cybernetics-of-sex
 
 
-![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/1.jpeg)
+![](cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.002.jpeg)
 
-![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/2.jpeg)
+![](cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.010.jpeg)
 
-![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/3.jpeg)
+![](cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.038.jpeg)
 
-![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/5.jpeg)
+![](cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.077.jpeg)
 
-![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/4.jpeg)
+![](cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.114.jpeg)
+
+![](cyberneticsofsex/images/large_0590d5436f4739bcc31127463cf71cb9.png)
+
+![](cyberneticsofsex/images/cybernetics_of_sex_codesocieties_IMAGES.114.jpeg)
+
 
