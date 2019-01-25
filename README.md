@@ -1,6 +1,6 @@
 # Cybernetics of Sex:
 ## Technology, Feminisms, & the Choreography of Culture
-An introduction to cybernetics — the study of control systems in machines and living things. Through the example of sexual reproduction and the ways sex becomes gender, we will look at regulatory systems and feedback loops in the technological frameworks in which we are embedded and in the social pressures that govern our behavior. We will tease out social patterns and norms that emerge over time, through bodies, and come together to create culture.
+An introduction to cybernetics as the study of the ways we shape and are shaped by systems of feedback and control. Through the example of sexual reproduction and the ways sex become gender, we will look at social regulatory systems in the technological frameworks in which we are embedded and in the social pressures that govern our behavior. We will tease out social patterns and norms that emerge over time, through bodies, and come together to create culture.
 
 ### Required Reading
 - https://github.com/melaniehoff/cyberneticsofsex/blob/master/Lorde_The_Masters_Tools.pdf (3 pages)
