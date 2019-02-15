@@ -1,5 +1,8 @@
 # Cybernetics of Sex:
 ## Technology, Feminisms, & the Choreography of Culture
+
+![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.002.jpeg?raw=true)
+
 What can cybernetics, the science of communications and automatic control systems in machines and living things, teach us about the ways we shape and are shaped by sex?
 
 By delving into topics like sexual reproduction and the ways sex becomes gender, we will explore the social regulatory systems in technological platforms that produce social pressure and govern behavior. Through discussing examples from art, contemporary media, and hands on exercises, we will tease out social patterns and norms that emerge over time, through bodies, to form culture.
@@ -13,8 +16,6 @@ By delving into topics like sexual reproduction and the ways sex becomes gender,
 ### Suggested Research Materials
 - https://www.are.na/melanie-hoff/cybernetics-of-sex
 
-
-![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.002.jpeg?raw=true)
 
 ![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.010.jpeg)
 
