@@ -18,13 +18,12 @@ By delving into topics like sexual reproduction and the ways sex become gender, 
 - https://www.are.na/melanie-hoff/cybernetics-of-sex
 
 
-![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.010.jpeg)
 
 ![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.038.jpeg?raw=true)
 
 ![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.114.jpeg?raw=true)
 
-![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/large_0590d5436f4739bcc31127463cf71cb9.png?raw=true)
+![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/11.jpg?raw=true)
 
 ![](https://github.com/melaniehoff/cyberneticsofsex/blob/master/images/cybernetics_of_sex_codesocieties_IMAGES.077.jpeg?raw=true)
 
