@@ -8,7 +8,7 @@ What can cybernetics, the study of communications and automatic control systems,
 By delving into topics like sexual reproduction and the ways sex become gender, we will explore how social regulatory systems in technological platforms produce social pressure and govern behavior. Through discussing examples from art, contemporary media, and hands on exercises, we will tease out social patterns and norms that emerge over time, through bodies, to form culture.
 
 ### Required Reading
-- [Cybernetics of Sex Readings](https://www.are.na/melanie-hoff/cybernetics-of-sex-suggested-readings)
+- **[Cybernetics of Sex Readings Arena Channel](https://www.are.na/melanie-hoff/cybernetics-of-sex-suggested-readings)**
 - https://github.com/melaniehoff/cyberneticsofsex/blob/master/Lorde_The_Masters_Tools.pdf (3 pages)
 - https://github.com/melaniehoff/cyberneticsofsex/blob/master/SisterOutside.pdf (7 pages)
 - https://github.com/melaniehoff/cyberneticsofsex/blob/master/a-cyborg-manifesto.pdf (read up to page 30)
