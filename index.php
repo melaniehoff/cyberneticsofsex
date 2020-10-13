@@ -17,14 +17,23 @@ Cybernetics of Sex!
 		<div class="circle">
 			<div class="border"></div>
 		<div id="rsvp">
-		<span class="zoom"><a href="xxx">Syllabus</a></span>
+		<span class="zoom">Syllabus</span>
+	<ul>
+	<li>
+	<a target="_blank" class="zoom underline--dotted" href="https://www.youtube.com/watch?v=FyqOiIcCiaQ&t=398s">Tuesday</a>
+	</li>
+	<li>
+	<a target="_blank" class="zoom underline--dotted" href="https://www.youtube.com/watch?v=gAJ9akQceAA&t=3s">Wednesday</a>
+	</li>
+	</ul>
 	</div>
 	
 	<!-- <div class="star-12"></div> -->
 </div>
 	</div>
 </div>
-	<img class="main-image" src=<?php echo get_bloginfo('template_directory'); ?>/img/temppost.jpg></img>
+	<img id="sharing-poster"src="<?php echo get_bloginfo('template_directory'); ?>/img/site.png"</img>
+	<img class="main-image" src=<?php echo get_bloginfo('template_directory'); ?>/img/dll.png></img>
 
 	<!-- wp:paragraph -->
 	<div class="description">
