@@ -1,0 +1,117 @@
+/*
+Theme Name: DLL Web 2
+Author: Max Fowler
+Description: theme for dll website
+Version: 0.0.1
+Tags: sari
+*/
+
+/* Code -------------------------------------- */
+
+
+code,
+kbd,
+pre,
+samp {
+	font-family: monospace;
+	font-size: 0.9em;
+	padding: 0.4rem 0.6rem;
+}
+
+code,
+kbd,
+samp {
+	background: rgba(0, 0, 0, 0.075);
+	border-radius: 0.2rem;
+}
+
+pre {
+	border: 0.1rem solid #dcd7ca;
+	line-height: 1.5;
+	margin: 4rem 0;
+	overflow: auto;
+	padding: 3rem 2rem;
+	text-align: left;
+}
+
+pre code {
+	background: transparent;
+	padding: 0;
+}
+
+
+
+/**
+ * Colors
+ */
+/**
+ * Breakpoints & Media Queries
+ */
+/**
+ * Colors
+ */
+/**
+ * Often re-used variables
+ */
+/**
+ * Grid System.
+ * https://make.wordpress.org/design/2019/10/31/proposal-a-consistent-spacing-system-for-wordpress/
+ */
+/**
+ * Breakpoint mixins
+ */
+/**
+ * Long content fade mixin
+ *
+ * Creates a fading overlay to signify that the content is longer
+ * than the space allows.
+ */
+/**
+ * Button states and focus styles
+ */
+/**
+ * Applies editor left position to the selector passed as argument
+ */
+/**
+ * Styles that are reused verbatim in a few places
+ */
+/**
+ * Allows users to opt-out of animations via OS-level preferences.
+ */
+/**
+ * Reset default styles for JavaScript UI based pages.
+ * This is a WP-admin agnostic reset
+ */
+/**
+ * Reset the WP Admin page styles for Gutenberg-like pages.
+ */
+
+
+
+.has-small-font-size {
+  font-size: 13px; }
+
+.has-regular-font-size,
+.has-normal-font-size {
+  font-size: 16px; }
+
+.has-medium-font-size {
+  font-size: 20px; }
+
+.has-large-font-size {
+  font-size: 36px; }
+
+.has-larger-font-size,
+.has-huge-font-size {
+  font-size: 42px; }
+
+.has-text-align-center {
+  text-align: center; }
+
+.has-text-align-left {
+  /*rtl:ignore*/
+  text-align: left; }
+
+.has-text-align-right {
+
+  text-align: right; }
