@@ -9,7 +9,7 @@ get_template_part('header');
 <div class="center-pane">
 
 <h1>
-Cybernetics of Sex
+Cybernetics of Sex!
 </h1>
 
 	<div>
@@ -17,23 +17,14 @@ Cybernetics of Sex
 		<div class="circle">
 			<div class="border"></div>
 		<div id="rsvp">
-		<span class="zoom">Sharing Sessions Recordings:</span>
-	<ul>
-	<li>
-	<a target="_blank" class="zoom underline--dotted" href="https://www.youtube.com/watch?v=FyqOiIcCiaQ&t=398s">Tuesday</a>
-	</li>
-	<li>
-	<a target="_blank" class="zoom underline--dotted" href="https://www.youtube.com/watch?v=gAJ9akQceAA&t=3s">Wednesday</a>
-	</li>
-	</ul>
+		<span class="zoom"><a href="xxx">Syllabus</a></span>
 	</div>
 	
 	<!-- <div class="star-12"></div> -->
 </div>
 	</div>
 </div>
-	<img id="sharing-poster"src="<?php echo get_bloginfo('template_directory'); ?>/img/site.png"</img>
-	<img class="main-image" src=<?php echo get_bloginfo('template_directory'); ?>/img/dll.png></img>
+	<img class="main-image" src=<?php echo get_bloginfo('template_directory'); ?>/img/temppost.jpg></img>
 
 	<!-- wp:paragraph -->
 	<div class="description">
